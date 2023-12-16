@@ -102,7 +102,7 @@ section {
 }
 #sessao-bemvindo .banner {
 	height: 500px;
-	background-image: url('../Imagem/galeria1.jpg');
+	background-image: url('..galeria1.jpg');
 	background-position: center;
 	background-size: cover;
 }
@@ -121,7 +121,7 @@ section {
 .sessao-minibanner {
 	width: 300px;
 	height: 400px;
-	background-image: url('../Imagem/galeria2.jpg');
+	background-image: url('..galeria2.jpg');
 	background-position: center;
 	background-size: cover;
 	float: left;
@@ -169,7 +169,7 @@ section {
 #sessao-sobre .sessao-minibanner {
 	float: right;
 	margin-right: 50px;
-	background-image: url('../img/banner4.jpg');
+	background-image: url('..banner4.jpg');
 }
 
 #sessao-sobre .sessao-descricao {
@@ -204,24 +204,24 @@ section {
     border-radius: 1rem;}
 
 #img1 {
-	background-image: url('../Imagem/charcuterie-7308632_640\ \(1\).jpg');
+	background-image: url('..charcuterie-7308632_640\ \(1\).jpg');
 	margin-left: 0;
 }
 
 #img2 {
-	background-image: url('../Imagem/linguica1.jpg');
+	background-image: url('..linguica1.jpg');
 }
 
 #img3 {
-	background-image: url('../Imagem/linguica2.jpg');
+	background-image: url('..linguica2.jpg');
 }
 
 #img4 {
-	background-image: url('../Imagem/linguiça3.jpg');
+	background-image: url('..linguiça3.jpg');
 }
 
 #img5 {
-	background-image: url('../Imagem/linguiça4.jpg');
+	background-image: url('..linguiça4.jpg');
 	margin-right: 0;
 }
 
@@ -233,16 +233,16 @@ section {
     border-radius: 1rem;}
 
 #img6 {
-	background-image: url('../Imagem/salame.jpg');
+	background-image: url('..salame.jpg');
 	margin-left: 0;
 }
 
 #img7 {
-	background-image: url('../Imagem/salame2.jpg');
+	background-image: url('..salame2.jpg');
 }
 
 #img8 {
-	background-image: url('../Imagem/Salame3.jpg');
+	background-image: url('..Salame3.jpg');
 }
 
 .produtos3-imgs {
@@ -254,20 +254,20 @@ section {
 }
 
 #img9 {
-	background-image: url('../Imagem/Lombo-defumado.jpg');
+	background-image: url('..Lombo-defumado.jpg');
 	margin-left: 0;
 }
 
 #img10 {
-	background-image: url('../Imagem/Panceta-defumada.jpg');
+	background-image: url('..Panceta-defumada.jpg');
 }
 
 #img11 {
-	background-image: url('../Imagem/Pastrami.jpg');
+	background-image: url('..Pastrami.jpg');
 }
 
 #img12 {
-	background-image: url('../Imagem/Presuntocrudo-img3.jpg');
+	background-image: url('..Presuntocrudo-img3.jpg');
 	margin-right: 0;
 }
 
